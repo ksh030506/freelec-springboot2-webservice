@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GraphDatabaseSupport.DataSourcesState">
+    <option name="containerV1">
+      <DataSourceContainerV1>
+        <option name="dataSources">
+          <list>
+            <DataSourceV1>
+              <option name="uuid" value="b461ad95-de96-4325-b05b-48c24d2643fc" />
+              <option name="name" value="freelec" />
+              <option name="dataSourceType" value="NEO4J_BOLT" />
+              <option name="configuration">
+                <map>
+                  <entry key="host" value="freelect-springboot2-webservice.ck2kb4yvis02.ap-northeast-2.rds.amazonaws.com" />
+                  <entry key="password" value="123456789" />
+                  <entry key="port" value="3306" />
+                  <entry key="user" value="jojoldu" />
+                </map>
+              </option>
+            </DataSourceV1>
+          </list>
+        </option>
+      </DataSourceContainerV1>
+    </option>
+  </component>
+</project>
